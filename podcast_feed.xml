@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>エオルゼアタイムズ - FC Ponte Daily</title>
+    <link>https://ff14ponte.com</link>
+    <language>ja</language>
+    <description>FF14 FCサイト「fc-ponte」の日次ニュースまとめ。Lodestone公式ニュースとReddit r/ffxivの話題を、めたんとずんだもんの掛け合いでお届けします。</description>
+    <itunes:author>FC Ponte</itunes:author>
+    <itunes:summary>FF14 Lodestone + Reddit 日次まとめポッドキャスト</itunes:summary>
+    <itunes:category text="Leisure">
+      <itunes:category text="Video Games"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://ff14ponte.com/wp-content/uploads/2026/04/Gemini_Generated_Image_3y9eh83y9eh83y9e.jpg"/>
+    <image>
+      <url>https://ff14ponte.com/wp-content/uploads/2026/04/Gemini_Generated_Image_3y9eh83y9eh83y9e.jpg</url>
+      <title>エオルゼアタイムズ</title>
+      <link>https://ff14ponte.com</link>
+    </image>
+  </channel>
+</rss>
