@@ -19,5 +19,14 @@
       <title>エオルゼアタイムズ</title>
       <link>https://ff14ponte.com</link>
     </image>
+    <item>
+      <title>[エオルゼアタイムズ] 2026/4/5（テスト配信）</title>
+      <description>2026-04-05 のFF14ニュースまとめ（Lodestone + Reddit）</description>
+      <enclosure url="https://ff14ponte.com/wp-content/uploads/2026/04/eorzea-times-2026-04-05.mp3" length="3153837" type="audio/mpeg"/>
+      <guid isPermaLink="false">eorzea-times-2026-04-05</guid>
+      <pubDate>Sun, 05 Apr 2026 18:32:35 +0900</pubDate>
+      <itunes:duration>3:17</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+    </item>
   </channel>
 </rss>
